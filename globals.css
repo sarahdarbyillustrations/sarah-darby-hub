@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  font-family: Georgia, serif;
+  background: #FAF7F4;
+  color: #2A2523;
+}
+
+select, input, textarea, button {
+  font-family: Georgia, serif;
+}
